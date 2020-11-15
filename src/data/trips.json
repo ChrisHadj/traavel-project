@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/image-1.jpg",
+        "alt": "la maison",
+        "name": "la maison",
+        "button": "vue de la maison"
+    },
+    {
+        "img": "../assets/images/image-2.jpg",
+        "alt": "la maison",
+        "name": "la maison",
+        "button": "vue de la maison"
+    },
+    {
+        "img": "../assets/images/image-3.jpg",
+        "alt": "la maison",
+        "name": "la maison",
+        "button": "vue de la maison"
+    },
+    {
+        "img": "../assets/images/image-4.jpeg",
+        "alt": "la maison",
+        "name": "la maison",
+        "button": "vue de la maison"
+    }
+]
